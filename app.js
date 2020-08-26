@@ -1,0 +1,1 @@
+document.queryElementAll('h2');
